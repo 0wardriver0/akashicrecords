@@ -16,7 +16,7 @@ To get started with Akashic Records, follow these steps:
 
 Clone the repository:
    ```bash
-   git clone https://github.com/0wardriver0/akashicrecords.git
+   git clone https://github.com/loopbacklycan/akashicrecords.git
    cd akashicrecords
    npm install
    node server.js
